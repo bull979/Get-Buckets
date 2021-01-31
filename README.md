@@ -9,8 +9,9 @@ Instructor: Paul Banta
 Project Step 2
 Get Buckets Shot Counter
 
-
+# Introduction
 The idea that I chose to go with was my idea for the shooting site. I chose this one, because the addition of information is a lot more frequent than the other two that were mentioned in my first project. My goal is to help basketball players to self-improve their shooting skills by tracking their progress of shooting over time.
+
 
 As stated before, this idea is inspired my love for basketball. I have played and loved basketball for as long as I can remember. Now that I have a daughter that plays, I wanted to come up with something that may help her improve in ways that I did not have when I played. That is why I came up with the idea for her to start tracking her progress with her shooting. I believe that it is a lot easier to see what you need to improve on if you can actually see what you need to improve on. This application will be used to document and track all her shots in order to attack her trouble areas and improve on the areas that she is already doing well. To do this, this application will allow you to see all your shots that are made from different positions by two different means.
 
