@@ -28,4 +28,4 @@ As mentioned, both input methods will be based off of different positions and sh
 So, this is my idea that I chose to do my project on. I believe that it is something that can benefit a lot of people, and I also believe that it is something that my and my daughter would be using a lot of as she moves forward with her playing basketball.  
 
 
-[DATABASE DIAGHRAM](Get Buckets.pdf)
+[DATABASE DIAGHRAM](GetBuckets.pdf)
